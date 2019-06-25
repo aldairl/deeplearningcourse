@@ -1,0 +1,22 @@
+tribus 
+
+simbolistas
+    aprende a base logica de primer orden
+
+conexionistas
+    aprende a conectar elementros de entrada representando interacciones entre variales
+    redes neuronales, deep learnig
+
+evolucionista
+    aprende evolucioando la representacion de los elementos de entrada y calculando una funcion
+    algoritmos genéticos
+
+bayesiano
+    aprende a base a la probabilidad condicional P(A|B), teorema de bayesiano
+    algoritmo: Bayesian Networks, Markov Decision Process
+
+analogizador
+    aprende a base de las analogias (similitud) para evaluar de forma similar las evidencias
+
+-----------------------------
+Aproximacion al deep learning

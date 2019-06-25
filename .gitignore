@@ -5,7 +5,6 @@ __pycache__/
 
 # C extensions
 *.so
-
 # Distribution / packaging
 .Python
 build/
@@ -81,10 +80,12 @@ celerybeat-schedule
 # SageMath parsed files
 *.sage.py
 
+
 # Environments
 .env
 .venv
 env/
+deep_env/
 venv/
 ENV/
 env.bak/
